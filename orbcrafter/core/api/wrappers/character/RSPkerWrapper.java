@@ -9,7 +9,6 @@ import org.tribot.api2007.types.RSCharacter;
 import org.tribot.api2007.types.RSPlayer;
 import org.tribot.api2007.types.RSTile;
 import scripts.dezapi.core.environment.wrap.PlayerWrapper;
-import scripts.venenatis.utility.Utility;
 
 /**
  * @author JoeDezzy1
